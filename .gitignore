@@ -8,6 +8,7 @@
 *.so
 *.hi
 *.lib
+*.a
 
 # Packages #
 ############
